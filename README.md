@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey, I'm Ryan 👋</h1>
 
-<h3 align="center">Engineering Student • Systems Builder • Problem Solver</h3>
+<h3 align="center">Mechatronics Engineering Student @ UWaterloo</h3>
 
 <p align="center">
 I build dependable systems spanning embedded hardware, robotics, and backend software,
@@ -48,9 +48,6 @@ with an emphasis on reliability, testing, and real-world constraints.
 </p>
 </div>
 
----
-
-## Stats
 
 <!--
 <p>
