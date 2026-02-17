@@ -13,40 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey, I'm Ryan 👋</h1>
+<h1 align="center"> wangdynasty.ca </h1>
 
-<h3 align="center">Mechatronics Engineering Student @ UWaterloo</h3>
-
-<p align="center">
-I build dependable systems spanning embedded hardware, robotics, and backend software,
-with an emphasis on reliability, testing, and real-world constraints.
-</p>
-
-<p align="center">
-  <a href="https://wangdynasty.ca">
-    <img src="https://img.shields.io/badge/PORTFOLIO-2ea44f?style=for-the-badge"/>
-  </a>
-  <a href="mailto:ryan.muxiwang@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-8ecae6?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-## Tech Stack
-<div align="center">
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
-</p>
-</div>
 
 
 <!--
