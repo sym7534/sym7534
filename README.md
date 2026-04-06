@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> wangdynasty.ca </h1>
+<h2 align="center"> wangdynasty.ca </h2>
 
 
 
