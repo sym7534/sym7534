@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">wangdynasty.ca</p>
-
+<h3 align="center">
+  <a href="https://wangdynasty.ca">wangdynasty.ca</a>
+</h3>
 
 
 <!--
